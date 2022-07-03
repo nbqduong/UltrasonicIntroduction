@@ -9,7 +9,7 @@
 - Các cách kết nối được thể hiện: 
 <picture>
 <src="https://github.com/nbqduong/UltrasonicTransducer-/blob/d584e97d1515725d34e8830e2a776770c91aa5ea/Untitled.png">
-<picture>
+</picture>
 
 #### Công việc cần làm:
 - Thiết kế đồ gá cho mũi hàn liên kết với cánh tay robot
