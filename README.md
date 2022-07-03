@@ -8,7 +8,7 @@
 - Hàn được các loại quỹ đạo thẳng, nghiêng thông thường
 - Các cách kết nối được thể hiện: 
 <picture>
-  <img alt="image for robot" src="https://github.com/nbqduong/CarProject/blob/55bba73f9a4e128d8400e4a8efb0ed4daf0f59a4/Video%20and%20Pictures/61f2d48025b6e6e8bfa7.jpg">
+  <img alt="image for robot" src="https://github.com/nbqduong/UltrasonicTransducer-/blob/fde3abea76c613c0d6014214f5a0e6f232a4e9af/Untitled.png">
 </picture>
 
 #### Công việc cần làm:
